@@ -12,8 +12,6 @@
 - 📫 How to reach me **falsewizard002@gmail.com**
 
 - ⚡ Fun fact **I'm Nerd XD**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
