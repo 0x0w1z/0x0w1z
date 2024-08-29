@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm False Wizard</h1>
+<h1 align="center">Hi 👋, I'm 0w1z</h1>
 <h3 align="center">A passionate Full-Stack Developer and Pentester from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falsewizard&label=Profile%20views&color=0e75b6&style=flat" alt="falsewizard" /> </p>
 
 - 🌱 I’m currently learning **Javascript, Pentesting**
 
-- 👨‍💻 All of my projects are available at [saramsrauniyar.com.np](saramsrauniyar.com.np)
+<-- - 👨‍💻 All of my projects are available at [saramsrauniyar.com.np](saramsrauniyar.com.np) -->
 
 - 💬 Ask me about **Forensics,Pentesting**
 
