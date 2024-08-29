@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [saramsrauniyar.com.np](saramsrauniyar.com.np)
 
-- 💬 Ask me about **react,python,pentesting**
+- 💬 Ask me about **Forensics,Pentesting**
 
 - 📫 How to reach me **falsewizard002@gmail.com**
 
