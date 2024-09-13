@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 0x0w1z</h1>
 <h3 align="center">A passionate Full-Stack Developer and Pentester from Nepal</h3>
-# 💫 About Me:<br>🔭 I’m currently working on Javascript, Python<br>🌱 I’m currently learning  Reverse Engineering, Binary Exploitation<br>💬 Ask me about Pentesting, Forensics, Web Development<br>⚡ Fun fact I'm a pokemon
+# 💫 About Me:<br>🔭 I’m currently working on Javascript, Python<br>🌱 I’m currently learning  Reverse Engineering, Binary Exploitation<br>💬 Ask me about Pentesting, Forensics, Web Development<br>⚡ Fun fact I'm a Doraemon
 
 
 ## 🌐 Socials:
