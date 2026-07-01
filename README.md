@@ -1,6 +1,7 @@
-# whoami
-
-Digital forensics · CTF player @ DEADCATS · Pentesting
+# Whoami
+Wiz
+Does Random Shits
+Digital forensics Player · CTF player @ DEADCATS · Pentesting · Bug hunt (sometimes tho)
 
 ## Focus
 
