@@ -1,7 +1,7 @@
 # Whoami
 Wiz <br>
-Does Random Shits
-Digital forensics Player · CTF player @ DEADCATS · Pentesting · Bug hunt (sometimes tho)
+Does Random Shits <br>
+Digital forensics · CTF player @ DEADCATS · Pentesting · Bug hunt (sometimes tho)
 
 ## Focus
 
